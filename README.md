@@ -96,5 +96,3 @@ The SweetTreats microservice is licensed under the [MIT License](LICENSE).
 ---
 
 This README provides a brief overview of the SweetTreats microservice, its features, and how to run it. For more detailed documentation, please refer to the codebase and the Swagger API documentation.
-
-Feel free to customize this README to suit your specific repository structure and project requirements.
